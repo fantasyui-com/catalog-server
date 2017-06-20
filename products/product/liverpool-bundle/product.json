@@ -1,0 +1,122 @@
+{
+     "deleted": false,
+     "title": "Liverpool Bundle",
+     "name": "liverpool-bundle",
+     "description": "Beautiful massive product megabundle.",
+     "version": "1.0.0",
+     "currency": "usd",
+     "featured": true,
+     "popular": true,
+     "author": "Bootstrap Cards User Interface Components",
+     "authorId": "bootstrap-cards",
+     "homepage": "http://bootstrap.cards/",
+     "demo": "http://bootstrap.cards/liverpool-bundle.html",
+     "screenshot": "https://bootstrap.cards/demo/liverpool-bundle/screenshot.jpg",
+     "licensing": [
+       {
+         "type": "standard",
+         "amount": 12800
+       },
+       {
+         "type": "multiuse",
+         "amount": 25600
+       },
+       {
+         "type": "extended",
+         "amount": 51200
+       }
+     ],
+     "properties": [
+       {
+         "label": "Product Type",
+         "text": "HTML Template"
+       },
+       {
+         "label": "Release Date",
+         "text": "January, 2016"
+       },
+       {
+         "label": "Last Updated",
+         "text": "May, 2017"
+       },
+       {
+         "label": "File Types",
+         "text": "HTML, CSS"
+       },
+       {
+         "label": "File Size",
+         "text": "~100MB"
+       },
+       {
+         "label": "Layout Columns",
+         "text": "Variable"
+       },
+       {
+         "label": "Responsive Layout",
+         "text": "Yes"
+       },
+       {
+         "label": "Fluid Layout",
+         "text": "Yes"
+       },
+       {
+         "label": "Fixed-width Layout",
+         "text": "Yes"
+       },
+       {
+         "label": "Less",
+         "text": "No"
+       },
+       {
+         "label": "Sass",
+         "text": "No"
+       },
+       {
+         "label": "PostCSS",
+         "text": "Yes"
+       },
+       {
+         "label": "Min Browser",
+         "text": "IE 9, 10, 11 Latest Chrome Latest Firefox Latest Safari"
+       }
+     ],
+     "tags": [
+       "modern",
+       "bootstrap",
+       "bootstrap 4",
+       "app",
+       "tablet",
+       "phone",
+       "desktop",
+       "responsive",
+       "multipurpose",
+       "template",
+       "theme",
+       "fui",
+       "hud",
+       "gui",
+       "ixd",
+       "ux",
+       "ui",
+       "ajax",
+       "web 2.0",
+       "html5",
+       "css3",
+       "jquery",
+       "bootlint",
+       "business",
+       "creative",
+       "marketing",
+       "agency",
+       "portfolio",
+       "blog",
+       "corporate",
+       "company",
+       "resume"
+     ],
+     "categories": [
+       {
+         "label": "Web Design"
+       }
+     ]
+},

@@ -1,0 +1,24 @@
+{
+  "name": "catalog-server",
+  "version": "1.0.0",
+  "description": "Commercial product management server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/catalog-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/catalog-server/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/catalog-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "serve-index": "^1.9.0"
+  }
+}
