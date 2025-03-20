@@ -1,6 +1,6 @@
 {
   "name": "catalog-server",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "description": "Commercial product management server.",
   "main": "index.js",
   "scripts": {
